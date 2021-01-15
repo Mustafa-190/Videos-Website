@@ -18,6 +18,7 @@ then login with
    password : 123456
    
    #Admin
+   
        Add / edit /delete category
        Add/edit/delete skills
        Add/edit/delete tags
@@ -27,6 +28,7 @@ then login with
        Add/edit/delete pages
        
   #Technologies
+  
   Laravel 5.8
   Bootstrap 4
   Jquery
