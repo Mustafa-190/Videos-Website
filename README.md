@@ -17,7 +17,7 @@ then login with
    email : admin@website.com
    password : 123456
    
-   #Admin
+   # Admin
    
        Add / edit /delete category
        Add/edit/delete skills
@@ -27,7 +27,7 @@ then login with
        Add/edit/delete comments
        Add/edit/delete pages
        
-  #Technologies
+  # Technologies
   
   Laravel 5.8
   Bootstrap 4
